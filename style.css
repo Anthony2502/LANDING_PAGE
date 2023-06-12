@@ -1,5 +1,7 @@
 .inicio_side{
 	background-image: url(images/fondo.gif);	
+	background-repeat: no-repeat;
+	background-size: cover;	
 	width: 100%;
 	height: 1089px;
 	position: absolute;
@@ -125,14 +127,14 @@ p{
 }
 
 .Ubicanos{	
-	background-image: url(images/ubicanos.png);
+	background-image: url(images/ubicanos.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: absolute;
 	top: 205%;
 	left: 0px;	
 	width: 100%;
-	height: 1150px;	
+	height: 1167px;	
 }
 
 .Ubicanos h1{
@@ -148,7 +150,7 @@ p{
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: absolute;
-	top: 310%;
+	top: 312%;
 	left: 0px;	
 	width: 100%;
 	height: 1118px;	
@@ -173,15 +175,13 @@ p{
 .facebook{
 	position: absolute;		
 	top: 80%;
-	left: 35%;
-	
+	left: 35%;	
 }
 
 .instagram{
 	position: absolute;		
 	top: 80%;
 	left: 65%;	
-	
 }
 
 .twitter{
